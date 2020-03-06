@@ -1,100 +1,60 @@
-Johnny Coder
+Eli Mattson
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> Software engineer looking to solve hard, high impact problems. I enjoy working on products at the intersection of 
+> security, reliability, and scalability. 
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2010 - 2014
+**Bachelor of Science Computer Science**; The George Washington University (Washington DC)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+*Focus: Security*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Atrium**, San Francisco, CA (2017 - 2020)
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+* *Document management system* - Designed backend processes and data models for a user friendly DMS that emphasizes lawyer client collaboration.
 
-* First item
+* *Head of Security Guild* - Led and managed product roadmap for a cross team org focussed on ensuring best in class security practices and compliance.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* *Bug bounty program* - Established compliant processes for security related production support. Manged relationship with HackerOne and ran private bug bounty program.
 
-**That Other Job You Had**
+**Tetra**, San Francisco, CA (2016 - 2017)
 
-Also with a short description.
+* *Self healing pipeline* - Python based data pipeline for reliably taking in twilio calls and exporting diarized meeting transcriptions.
 
-Technical Experience
---------------------
+* *Audio summarization and diarization* - Analysed and implemented various ML models in production.
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+**Shape Security**, Mountain View, CA (2013 - 2016)
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+* *Custom decision engine scripting language* - Programming language designed to make data analysis easier and to always terminate.
+* *Browser interrogation countermeasures* - JavaScript/Java based web browser interrogation systems via a programmable proxy, designed for high throughput and reliability.
+* *JavaScript analysis and obfuscation* - JavaScript obfuscation engine with a focus on safely transforming JavaScript in such a manner as to make it exceptionally difficult for humans to read and interpret.
+* *Scriptable reverse proxy* - High performance stateless web proxy designed to manipulate web traffic.  
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+**Social Driver**, Washington, DC (December 2013 - May 2014)
+* Built multiple web applications using a variety of web technologies including Rails, Drupal, and Play Framework.
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+**Naval Research Lab**, Washington, DC (May 2012 - May 2013)
+* Engineered browser identification techniques using HTML5.
+* Designed and built dynamic web applications to present results.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+Talks and Awards
+----------------
+* [*MLOC Budapest 2015*](http://html5devconf.com/index.html), Speaker (2015)
+* [*HTML5 Dev Conference 2015*](http://mloc-js.com/2015/), Speaker (2015)
+* **Bard Award** for Senior Capstone project (2014)
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <elimattson13@gmail.com> • +00 (208) 520 0009\
+> San Francisco, CA
