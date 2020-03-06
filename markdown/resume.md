@@ -17,23 +17,23 @@ Experience
 
 * *Document management system* - Designed and iterated on full stack product solutions for a user friendly DMS emphasizing lawyer/client collaboration.
 
-* *Serverless pipeline* - Built and scaled a document processing pipeline utilizing AWS lambda, kinesis, and step functions.
+* *Serverless pipeline* - Built and scaled a document processing pipeline utilizing AWS lambda, batch, kinesis, and step functions optimized for burst loads.
 
-* *Head of Security Guild* - Managed roadmap and led cross-organization team promoting security knowledge sharing and best practices and established a private bug bounty program.
+* *Head of Security Guild* - Led a cross-organization team promoting strong org wide security practices and established and managed Atrium's private bug bounty program.
 
 **Tetra**, San Francisco, CA (2016 - 2017)
 
 * *Audio ML pipeline* - Developed and maintained a self-healing audio processing pipeline integral to the product experience.
 
-* *Audio summarization and diarization* - Productionalized and graded various ML models in a production environment.
+* *Audio summarization and diarization* - Productionalized and graded audio ML models in a production environment.
 
 **Shape Security**, Mountain View, CA (2013 - 2016)
 
 * *Custom decision engine scripting language* - Implemented a programming language designed to always terminate and enable custom data analysis.
 
-* *JavaScript analysis and obfuscation* - JavaScript obfuscation engine with a focus on safely transforming JavaScript in such a manner as to make it exceptionally difficult for humans to read and interpret.
+* *JavaScript analysis and obfuscation* - Developed JavaScript obfuscation engine with a focus on safely transforming JavaScript to make it exceptionally difficult for humans or bots to read and interpret.
 
-* *Scriptable reverse proxy* - Developed a high performance stateless web proxy to manipulate web traffic.
+* *Scriptable reverse proxy* - Iterated on a high performance stateless web proxy to manipulate web traffic.
 
 **Social Driver**, Washington, DC (2013 - 2014)
 
@@ -41,7 +41,7 @@ Experience
 
 **Naval Research Lab**, Washington, DC (2012 - 2013)
 
-* *Browser identification* - Utilized HTML5 traits to uniquely fingerprint browsers.
+* *Browser identification* - Utilized HTML5 traits to uniquely fingerprint browsers in secured environements.
 
 Education
 ---------
