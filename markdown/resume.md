@@ -13,7 +13,7 @@ Eli Mattson
 Experience
 ----------
 
-**Atrium**, San Francisco, CA (2017 - 2020)
+**Atrium**, San Francisco, CA (2018 - 2020)
 
 * *Document management system* - Designed and iterated on full stack product solutions for a user friendly DMS emphasizing lawyer/client collaboration.
 
@@ -21,13 +21,13 @@ Experience
 
 * *Head of Security Guild* - Led a cross-organization team promoting strong org wide security practices and established and managed Atrium's private bug bounty program.
 
-**Tetra**, San Francisco, CA (2016 - 2017)
+**Tetra**, San Francisco, CA (2017 - 2018)
 
 * *Audio ML pipeline* - Developed and maintained a self-healing audio processing pipeline integral to the product experience.
 
 * *Audio summarization and diarization* - Productionalized and graded audio ML models in a production environment.
 
-**Shape Security**, Mountain View, CA (2013 - 2016)
+**Shape Security**, Mountain View, CA (2013 - 2017)
 
 * *Custom decision engine scripting language* - Implemented a programming language designed to always terminate and enable custom data analysis.
 
