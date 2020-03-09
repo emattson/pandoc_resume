@@ -3,7 +3,7 @@ Eli Mattson
 
 ----
 
-> 6+ years solving hard problems 
+> Software Engineer with 6+ years solving complex problems 
 > at the intersection of language design, security, 
 > reliability, and scalability.
 
@@ -19,7 +19,7 @@ Experience
 
 * *Serverless pipeline* - Built and scaled a document processing pipeline utilizing AWS lambda, batch, kinesis, and step functions optimized for burst loads.
 
-* *Head of Security Guild* - Led a cross-organization team promoting strong org wide security practices and established and managed Atrium's private bug bounty program.
+* *Head of Security Guild* - Led a cross-organization team promoting strong org wide security practices. Established and managed Atrium's private bug bounty program.
 
 **Tetra**, San Francisco, CA (2017 - 2018)
 
@@ -52,8 +52,8 @@ Washington, DC
 
 Talks and Awards
 ----------------
-* [*MLOC Budapest 2015*](http://mloc-js.com/2015/), Speaker (2015)
-* [*HTML5 Dev Conference 2015*](http://html5devconf.com/index.html), Speaker (2015)
+* [*MLOC Budapest 2015*](http://mloc-js.com/2015/) - "Secure Peer-to-Peer Browser Communication", Speaker (2015)
+* [*HTML5 Dev Conference 2015*](http://html5devconf.com/index.html) - "PGP Encryption and Communication in JavaScript", Speaker (2015)
 * **Bard Award** for Senior Capstone project (2014)
 
 ----
